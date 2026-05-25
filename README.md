@@ -6,32 +6,6 @@ Sou bacharel em Estatística pela Universidade Federal do Ceará, com experiênc
 
 Atuo com Python e R para tratamento, análise e modelagem de dados, além de ferramentas como Power BI, Tableau, SQL e Excel para visualização e interpretação de informações. Também concluí o curso Google Advanced Data Analytics Certificate, que contribuiu para o desenvolvimento de habilidades em análise exploratória de dados, modelagem preditiva, visualização de dados e aplicação de técnicas de Machine Learning voltadas para a resolução de problemas de negócios.
 
-## 🧠 O que eu faço
-
-### 📊 Análise de Dados
-- Análise exploratória de dados
-- Limpeza e tratamento de dados
-- Visualização de dados
-- Criação de dashboards e relatórios
-- Storytelling com dados
-
-### 💡 Machine Learning
-
-- Aprendizado supervisionado
-- Aprendizado não supervisionado
-- Ajuste de hiperparâmetros
-- Implementação de modelos preditivos
-- Avaliação de modelos
-
-### 📈 Estatística
-
-- Estatística descritiva
-- Probabilidade
-- Inferência estatística
-- Testes de hipótese
-- Análise de sobrevivência
-- Análise de séries temporais
-
 ### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -84,6 +58,32 @@ Atuo com Python e R para tratamento, análise e modelagem de dados, além de fer
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JDiegoSLira&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
+
+## 🧠 O que eu faço
+
+### 📊 Análise de Dados
+- Análise exploratória de dados
+- Limpeza e tratamento de dados
+- Visualização de dados
+- Criação de dashboards e relatórios
+- Storytelling com dados
+
+### 💡 Machine Learning
+
+- Aprendizado supervisionado
+- Aprendizado não supervisionado
+- Ajuste de hiperparâmetros
+- Implementação de modelos preditivos
+- Avaliação de modelos
+
+### 📈 Estatística
+
+- Estatística descritiva
+- Probabilidade
+- Inferência estatística
+- Testes de hipótese
+- Análise de sobrevivência
+- Análise de séries temporais
 
 ## 🌐 Onde me encontrar
 
